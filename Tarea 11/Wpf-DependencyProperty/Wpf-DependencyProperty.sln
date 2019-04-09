@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-DependencyProperty", "Wpf-DependencyProperty\Wpf-DependencyProperty.csproj", "{01AE66B2-439B-430C-82FF-4A7CEFF24784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AE66B2-439B-430C-82FF-4A7CEFF24784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AE66B2-439B-430C-82FF-4A7CEFF24784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AE66B2-439B-430C-82FF-4A7CEFF24784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AE66B2-439B-430C-82FF-4A7CEFF24784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B2EC95E-3888-48C1-A0E4-A5F92E3C7124}
+	EndGlobalSection
+EndGlobal
